@@ -1,31 +1,5 @@
 Hi there! 👋 I'm Abdul Haseeb Minhas
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Electrical+Engineering+Student;BCI%2FRIS+Research+Enthusiast;Python+Developer;Embedded+Systems+Explorer;Future+Mechatronics+Engineer" alt="Typing SVG" />
-</div>
-
-🚀 About Me
-
-🎓 Electrical Engineering Student at National University of Sciences and Technology (NUST)
-📄 Published Researcher: Contributing to B5G/6G wireless communication technologies
-🧠 Research Focus: Brain-Computer Interfaces (BCI) and Reconfigurable Intelligent Surfaces (RIS)
-🐍 Programming: Python, C/C++, MATLAB
-🤖 Hardware: Arduino, Raspberry Pi, ESP32, Embedded Systems
-🎯 Goal: Becoming a Mechatronics Engineer and contributing to cutting-edge technology
-📍 Location: Islamabad, Pakistan 🇵🇰
-
-🔬 Research Interests
-
-Reconfigurable Intelligent Surfaces (RIS): Published research on secure B5G/6G communication systems
-Wireless Communication Security: Secrecy capacity analysis and signal enhancement techniques
-Brain-Computer Interfaces (BCI): Exploring neural signal processing and machine learning applications
-Embedded Systems: Developing IoT solutions and automation projects
-Signal Processing: Advanced digital signal processing and optimization algorithms# Hi there! 👋 I'm Abdul Haseeb Minhas
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Electrical+Engineering+Student;BCI%2FRIS+Research+Enthusiast;Python+Developer;Embedded+Systems+Explorer;Future+Mechatronics+Engineer" alt="Typing SVG" />
-</div>
-
 ## 🔬 Research Interests
 
 - **Reconfigurable Intelligent Surfaces (RIS)**: Published research on secure B5G/6G communication systems
@@ -33,6 +7,20 @@ Signal Processing: Advanced digital signal processing and optimization algorithm
 - **Brain-Computer Interfaces (BCI)**: Exploring neural signal processing and machine learning applications
 - **Embedded Systems**: Developing IoT solutions and automation projects
 - **Signal Processing**: Advanced digital signal processing and optimization algorithms# Hi there! 👋 I'm Abdul Haseeb Minhas
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Electrical+Engineering+Student;BCI%2FRIS+Research+Enthusiast;Python+Developer;Embedded+Systems+Explorer;Future+Mechatronics+Engineer" alt="Typing SVG" />
+</div>
+
+## 🚀 About Me
+
+- 🎓 **Electrical Engineering Student** at National University of Sciences and Technology (NUST)
+- 📄 **Published Researcher**: Contributing to B5G/6G wireless communication technologies
+- 🧠 **Research Focus**: Brain-Computer Interfaces (BCI) and Reconfigurable Intelligent Surfaces (RIS)
+- 🐍 **Programming**: Python, C/C++, MATLAB
+- 🤖 **Hardware**: Arduino, Raspberry Pi, ESP32, Embedded Systems
+- 🎯 **Goal**: Becoming a Mechatronics Engineer and contributing to cutting-edge technology
+- 📍 **Location**: Islamabad, Pakistan 🇵🇰
 
 ## 💻 Tech Stack
 
