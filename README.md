@@ -1,17 +1,38 @@
-# Hi there! 👋 I'm Abdul Haseeb Minhas
+Hi there! 👋 I'm Abdul Haseeb Minhas
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Electrical+Engineering+Student;BCI%2FRIS+Research+Enthusiast;Python+Developer;Embedded+Systems+Explorer;Future+Mechatronics+Engineer" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+🚀 About Me
 
-- 🎓 **Electrical Engineering Student** at National University of Sciences and Technology (NUST)
-- 🧠 **Research Focus**: Brain-Computer Interfaces (BCI) and Reconfigurable Intelligent Surfaces (RIS)
-- 🐍 **Programming**: Python, C/C++, MATLAB
-- 🤖 **Hardware**: Arduino, Raspberry Pi, ESP32, Embedded Systems
-- 🎯 **Goal**: Becoming a Mechatronics Engineer and contributing to cutting-edge technology
-- 📍 **Location**: Islamabad, Pakistan 🇵🇰
+🎓 Electrical Engineering Student at National University of Sciences and Technology (NUST)
+📄 Published Researcher: Contributing to B5G/6G wireless communication technologies
+🧠 Research Focus: Brain-Computer Interfaces (BCI) and Reconfigurable Intelligent Surfaces (RIS)
+🐍 Programming: Python, C/C++, MATLAB
+🤖 Hardware: Arduino, Raspberry Pi, ESP32, Embedded Systems
+🎯 Goal: Becoming a Mechatronics Engineer and contributing to cutting-edge technology
+📍 Location: Islamabad, Pakistan 🇵🇰
+
+🔬 Research Interests
+
+Reconfigurable Intelligent Surfaces (RIS): Published research on secure B5G/6G communication systems
+Wireless Communication Security: Secrecy capacity analysis and signal enhancement techniques
+Brain-Computer Interfaces (BCI): Exploring neural signal processing and machine learning applications
+Embedded Systems: Developing IoT solutions and automation projects
+Signal Processing: Advanced digital signal processing and optimization algorithms# Hi there! 👋 I'm Abdul Haseeb Minhas
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Electrical+Engineering+Student;BCI%2FRIS+Research+Enthusiast;Python+Developer;Embedded+Systems+Explorer;Future+Mechatronics+Engineer" alt="Typing SVG" />
+</div>
+
+## 🔬 Research Interests
+
+- **Reconfigurable Intelligent Surfaces (RIS)**: Published research on secure B5G/6G communication systems
+- **Wireless Communication Security**: Secrecy capacity analysis and signal enhancement techniques
+- **Brain-Computer Interfaces (BCI)**: Exploring neural signal processing and machine learning applications
+- **Embedded Systems**: Developing IoT solutions and automation projects
+- **Signal Processing**: Advanced digital signal processing and optimization algorithms# Hi there! 👋 I'm Abdul Haseeb Minhas
 
 ## 💻 Tech Stack
 
@@ -34,12 +55,27 @@
 
 </div>
 
-## 🔬 Research Interests
+## 📄 Published Research
 
-- **Brain-Computer Interfaces (BCI)**: Exploring neural signal processing and machine learning applications
-- **Reconfigurable Intelligent Surfaces (RIS)**: Working on wireless communication optimization
-- **Embedded Systems**: Developing IoT solutions and automation projects
-- **Signal Processing**: Digital signal processing and pattern recognition
+### **SECRECY CAPACITY AND SIGNAL ENHANCEMENT ANALYSIS USING RECONFIGURABLE INTELLIGENT SURFACES FOR SECURE LINE-OF-SIGHT B5G LINKS**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Research-Published-brightgreen?style=for-the-badge&logo=academia&logoColor=white" alt="Published Research" />
+  <img src="https://img.shields.io/badge/Field-B5G%2F6G%20Communications-blue?style=for-the-badge&logo=signal&logoColor=white" alt="Research Field" />
+  <img src="https://img.shields.io/badge/Focus-RIS%20Security-red?style=for-the-badge&logo=shield&logoColor=white" alt="Security Focus" />
+</div>
+
+**Research Contribution**: Advanced analysis of Reconfigurable Intelligent Surfaces (RIS) for enhancing secrecy capacity and signal quality in Beyond 5G networks, with focus on secure line-of-sight communication links.
+
+**Key Achievements**:
+- 🔐 **Security Enhancement**: Developed novel approaches for improving secrecy capacity in B5G systems
+- 📡 **Signal Optimization**: Advanced signal enhancement techniques using RIS technology  
+- 🎯 **Line-of-Sight Analysis**: Comprehensive study of secure communication in LoS scenarios
+- 📊 **Performance Metrics**: Quantitative analysis of security and signal quality improvements
+
+**Research Impact**: Contributing to the future of secure wireless communications in 6G networks, addressing critical security challenges in next-generation mobile systems.
+
+---
 
 ## 📊 GitHub Stats
 
@@ -54,17 +90,18 @@
 
 ## 🎯 Current Focus
 
-- 📚 **Learning**: Advanced signal processing techniques and machine learning for BCI applications
-- 🔧 **Building**: Embedded systems projects with wireless communication capabilities
-- 📖 **Research**: Contributing to RIS technology and its applications in 6G networks
-- 🤝 **Collaborating**: Open to research collaborations and innovative project ideas
+- 📚 **Research Continuation**: Advancing RIS technology for next-generation wireless systems
+- 🔧 **Implementation**: Building practical systems based on published research findings
+- 📖 **Academic Excellence**: Contributing to cutting-edge research in B5G/6G communications
+- 🤝 **Collaboration**: Open to research partnerships in wireless communication and security
 
 ## 🏆 Achievements & Goals
 
-- 🎓 Pursuing Electrical Engineering at one of Pakistan's top universities
-- 🔬 Active in cutting-edge research areas (BCI & RIS)
-- 💡 Building practical projects that bridge theory and application
-- 🌟 **Goal**: Contribute to the future of human-machine interfaces and smart communication systems
+- 📄 **Published Research**: Contributing to B5G/6G wireless communication security
+- 🎓 Pursuing Electrical Engineering at one of Pakistan's top universities  
+- 🔬 Active researcher in Reconfigurable Intelligent Surfaces and secure communications
+- 💡 Building practical implementations that bridge advanced research with real-world applications
+- 🌟 **Goal**: Pioneer next-generation secure communication systems and human-machine interfaces
 
 ## 📫 Let's Connect!
 
