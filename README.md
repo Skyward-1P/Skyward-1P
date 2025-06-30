@@ -6,7 +6,7 @@ Hi there! 👋 I'm Abdul Haseeb Minhas
 - **Wireless Communication Security**: Secrecy capacity analysis and signal enhancement techniques
 - **Brain-Computer Interfaces (BCI)**: Exploring neural signal processing and machine learning applications
 - **Embedded Systems**: Developing IoT solutions and automation projects
-- **Signal Processing**: Advanced digital signal processing and optimization algorithms# Hi there! 👋 I'm Abdul Haseeb Minhas
+- **Signal Processing**: Advanced digital signal processing and optimization algorithms
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Electrical+Engineering+Student;BCI%2FRIS+Research+Enthusiast;Python+Developer;Embedded+Systems+Explorer;Future+Mechatronics+Engineer" alt="Typing SVG" />
